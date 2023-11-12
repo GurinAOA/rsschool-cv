@@ -1,0 +1,35 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  margin: 0 auto;
+  padding-left: 20px;
+  max-width: 1400px;
+  width: 100%;
+  min-height: 700px;
+  background: white;
+}
+img {
+  max-width: 50px;
+  min-height: 50px;
+}
+h1 {
+  color: blueviolet;
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+h2 {
+  color: blueviolet;
+  font-size: 10px;
+  margin-bottom: 7px;
+}
+p {
+  font-size: 10px;
+  margin-bottom: 7px;
+}
+span {
+  font-size: 10px;
+  margin-bottom: 7px;
+}
